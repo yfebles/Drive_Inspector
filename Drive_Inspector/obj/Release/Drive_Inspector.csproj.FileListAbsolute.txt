@@ -1,0 +1,29 @@
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Release\Drive_Inspector.exe.config
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Release\Drive_Inspector.exe
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Release\Drive_Inspector.pdb
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Release\af-ZA\Drive_Inspector.resources.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Release\DocumentFormat.OpenXml.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Release\WindowsBase.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Form1.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Form_Password.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Properties.Resources.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Form1.af-ZA.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.csproj.GenerateResource.Cache
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\af-ZA\Drive_Inspector.resources.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.exe
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.pdb
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.csprojResolveAssemblyReference.cache
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\bin\Release\Drive_Inspector.exe.config
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.exe
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.pdb
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\bin\Release\Drive_Inspector.exe
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\bin\Release\Drive_Inspector.pdb
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\bin\Release\af-ZA\Drive_Inspector.resources.dll
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\bin\Release\DocumentFormat.OpenXml.dll
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\bin\Release\WindowsBase.dll
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Form1.resources
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Form_Password.resources
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Properties.Resources.resources
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.Form1.af-ZA.resources
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\Drive_Inspector.csproj.GenerateResource.Cache
+E:\Trabajos\Drive Inspector\Drive_Inspector\Drive_Inspector\obj\Release\af-ZA\Drive_Inspector.resources.dll

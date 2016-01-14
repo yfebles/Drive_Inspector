@@ -1,0 +1,14 @@
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Debug\Drive_Inspector.exe.config
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Debug\Drive_Inspector.exe
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Debug\Drive_Inspector.pdb
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Debug\af-ZA\Drive_Inspector.resources.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\bin\Debug\WindowsBase.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.Form1.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.Form_Password.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.Properties.Resources.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.Form1.af-ZA.resources
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.csproj.GenerateResource.Cache
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\af-ZA\Drive_Inspector.resources.dll
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.exe
+E:\Programas\Drive_Inspector\Drive_Inspector\obj\Debug\Drive_Inspector.pdb
